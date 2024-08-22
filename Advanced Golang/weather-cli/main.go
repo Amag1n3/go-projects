@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-const apiKey = "b1471fc2c76d4085bcc316e81023aa78" // Replace with your Weatherbit API key
+const apiKey = "" // Replace with your Weatherbit API key
 
 type WeatherbitData struct {
 	Data []struct {
